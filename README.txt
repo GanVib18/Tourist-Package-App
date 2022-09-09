@@ -7,7 +7,7 @@ Tourist Package App
 	In short, our database is designed in a way that it allows users to check various destinations and based on what they like they can choose accordingly. The database displays the destinations and an accommodation nearby can also be chosen by the system. As the system has all the hotels that are close to different destinations chosen, they can be further filtered based on rooms within and the preferred bed type.
 
 	In short the data flow of our schema could be presented in this manner:
-Customer Login-> Aggregated Flight Component ->Aggregated Hotel Component -> Appended to Travel Package -> Payment Method
+Customer Login -> Aggregated Flight Component -> Aggregated Hotel Component -> Appended to Travel Package -> Payment Method
 
 	We used different queries including select, project, update, insert, delete to make our GUI interface for our vacation travel packages database. We have used SQLite to combine MySQL and python for writing the DDL and queries for the project. To make our project functional and running, we have looked at different videos and lecture notes to understand how to implement our code and queries. The format for my SQLite is a bit different than MySQL so we had to look into that as well. We have implemented our code in a way that there are a series of buttons and a query behind each button.
 
