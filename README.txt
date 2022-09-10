@@ -1,4 +1,7 @@
 Tourist Package App	
+
+
+
 	
 	Our group proposed a travel package database that first inputs customer information. Based on the given information such as the customer id, passport number, name, address, budget and groupcount, the customer gets the opportunity to customize the travel packages based on their preferences.The software system checks for user choice and then queries the database for various available mediums to travel to that destination. Moreover, the system allows the user to book tickets to the destination for the desired date and timings. This gives our customers lots of flexibility and the option to choose what they want for themselves.
 
@@ -15,6 +18,14 @@ Customer Login -> Aggregated Flight Component -> Aggregated Hotel Component -> A
 	
 	The main advantage of our vacation travel package database is that it automates the manual booking process of vacations by single individuals and groups. The payment and customization process is easy and flexible to use. This saves time for our customers and it is more convenient for them to book their tour online instead of visiting the agency. Another advantage is the incorporated payment method that comes along with the database booking system.
 
+
+
+
 Language: Python
 DataBase: SQL (Python library SQLite)
 GUI: Tkinter Library
+
+Authors - 
+Inayat Lakhani	
+Romeesa Jabbar
+Vibhuti Gandhi
